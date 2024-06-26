@@ -1,2 +1,3 @@
 # jolux-binder
-See if binder works with CORS limitations of FEDLEX endpoint
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bequrios/jolux-binder/main?labpath=sparql.ipynb)
